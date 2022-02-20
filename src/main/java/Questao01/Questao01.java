@@ -34,5 +34,6 @@ public static String ladder(int size){
             
         }stringBuilder.append("\n");          
     }return stringBuilder.toString();       
-}
+	}
+
 }
